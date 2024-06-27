@@ -1,5 +1,51 @@
-template-repository (1.0-1) unstable; urgency=medium
+lua-nginx-dns (0.20-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
+  * Bump Standards-Version to 4.1.3.
+  * Bump compat to 11.
+  * Update Vcs-* fields to salsa.debian.org.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Wed, 10 Jan 2018 18:30:04 +0800
+
+lua-nginx-dns (0.19-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 4.0.1.
+    * Use https in Format in d/copyright.
+  * Bump compat to 10.
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Sat, 12 Aug 2017 00:56:54 -0400
+
+lua-nginx-dns (0.18-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Fri, 11 Nov 2016 18:55:09 +0800
+
+lua-nginx-dns (0.17-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Fri, 26 Aug 2016 09:25:48 +0800
+
+lua-nginx-dns (0.16-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.8.
+  * Update Vcs-* fields.
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Tue, 31 May 2016 22:57:24 +0800
+
+lua-nginx-dns (0.15-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.7.
+  * Update Vcs-* fields.
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Sat, 19 Mar 2016 22:42:57 +0800
+
+lua-nginx-dns (0.14-1) unstable; urgency=low
+
+  * Initial release. Closes: #805606
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Fri, 20 Nov 2015 10:34:05 +0800
