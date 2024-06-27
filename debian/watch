@@ -1,0 +1,2 @@
+version=3
+https://github.com/openresty/lua-resty-dns/releases .*/v([\d\.]*)\.tar.gz
